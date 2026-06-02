@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     valor_final = calculo_de_juros(capital, t_juros, tempo);
     printf("O valor dos juros será: %d\n", valor_final);
 
-    printf("Criado por Derick Ferreira Correa(https://github.com/TravaChipzzxk)");
+    printf("Criado por Derick Ferreira Correa");
 
     return 0;
 }
