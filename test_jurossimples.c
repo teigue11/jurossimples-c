@@ -12,7 +12,7 @@ int main()
 
     printf("Teste 3: %d (Esperado: 375)\n", calculo_de_juros(100, 75, 5));
 
-    printf("Criado por Derick ferreira Correa (https://github.com/TravaChipzzxk)");
+    printf("Criado por Derick ferreira Correa");
 
     return 0;
 }
